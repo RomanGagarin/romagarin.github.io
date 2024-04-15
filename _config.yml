@@ -58,7 +58,8 @@ liquid:
   error_mode        : warn
   strict_filters    : false
   strict_variables  : false
-
+# Theme
+theme               : jekyll-theme-midnight
 # Markdown Processors
 kramdown:
   auto_ids          : true
